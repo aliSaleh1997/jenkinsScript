@@ -9,7 +9,7 @@ pipeline {
         }
           stage('okk') {
             steps {
-                echo 'ok World'
+                echo 'okWorld'
             }
         }
           stage('end') {
